@@ -1,5 +1,4 @@
 ## 🤩 node简介
----
 
 Node.js是一个javascript运行换件，它可以让javascript开发后端程序，实现几乎其他后端语言实现的所有功能，可以与PHP，Java，Python，.NET，Ruby等后端语言一样
 
