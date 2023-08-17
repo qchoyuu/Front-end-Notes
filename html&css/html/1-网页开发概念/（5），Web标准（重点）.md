@@ -20,13 +20,8 @@ Web标准是有W3C组织和其他标准组织制定的一系列标准的集合�
 
 >web标准的构成
 ```
-主要由三大部分组成：
-包括结构（Stucture），表现（Presentation）和行为（Behavior）三个方面
+主要由三大部分组成：包括结构（Stucture），表现（Presentation）和行为（Behavior）三个方面
 
-
-Web标注提出的最佳体验方案：结构，样式，行为相分离
-
-简单理解：结构写道HTML文件中，表现写在CSS文件中，行为写在JS文件中
 ```
 
 
