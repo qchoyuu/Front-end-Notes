@@ -1,29 +1,27 @@
->直接再命令行书写js代码
-```
-1. 打开命令行,输入指令 node 回车
-2. 进入输入状态,只能书写js代码，其他代码会报错,等价于在浏览器的控制台
-3. 缺点：
-  -> 没有代码提示
-  -> 不能存下来
-4. 退出编辑状态，ctrl + c 按下两次
-```
-<br/>
+> 直接在命令行书写js代码
+
+* 打开命令行，输入node回车即可进入输入状态
+* 进入输入状态只能写入JS代码，其他代码会报错
+* 缺点：
+	* 没有代码提示
+	* 不能保存在命令行写的代码
+* 退出编辑状态，`CTRL + C`连按两次即可
+
 
 >运行js文件
-```
-1. 把js代码书写在js文件中
-2. 打开命令行，切换目录到你要执行的js文件所在的目录
-3. 书写执行node 文件名称 回车
-```
 
-<br/>
+* 将js代码书写在.js文件中
+* 打开命令行，切换目录到执行的js文件所在目录
+* 根据命令`node 文件名`执行代码
+
 
 >javaScript与node.js
 ```
-浏览器中的JavaScript
-ECMAScript + Web Api （BOM，DOM）
+JavaScript：
+	ECMAScript + Web Api （BOM，DOM）
 
-而node.js
-ECMScript + Node API（fs，http，path..等等），所以是不能编译BOM和DOM的，但是可以使用console和定时器API
-Node中的顶级对象为global，也可以用globalThis访问顶级对象
+
+node.js
+	ECMScript + Node API（fs，http，path..等等），所以是不能编译BOM和DOM的
+	Node中的顶级对象为global，也可以用globalThis访问顶级对象
 ```

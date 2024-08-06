@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "249c32dc185abc66",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0ea6725b4fd050d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33a9d1edee76a752",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/3-基础.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd35365b1730a370",
+    "type": "split",
+    "children": [
+      {
+        "id": "f735dcda3a0fd047",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5269a31e3b055c86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "668efa83856666a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40dbadce9eea0b92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 377
+  },
+  "right": {
+    "id": "83246035403ae2a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6fffa1dcd10579a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e61e350718d3bb4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "python/3-基础.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56e767d1be488785",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "python/3-基础.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "477ff8c4609ceef2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7cb8c14e6f4c6c5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "python/3-基础.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "33a9d1edee76a752",
+  "lastOpenFiles": [
+    "python/2-前置.md",
+    "python/3-基础.md",
+    "python/1-安装.md",
+    "python",
+    "obsidian/设置.md",
+    "node/6-登录鉴权/（6.4），将session存储数据库.md",
+    "node/6-登录鉴权/（6.3），登出.md",
+    "node/1-node基础/（4），npm & yarn & nrm.md",
+    "node/1-node基础/（1），认识node.md",
+    "node/1-node基础/（2），node运行js文件.md",
+    "node/1-node基础/（5），ES模块化写法.md",
+    "node/1-node基础/（3），node的开发模式.md",
+    "node/2-内置模块/（1），http模块/（1.3），模块化的方式.md",
+    "node/2-内置模块/（1），http模块/（1.2），根据地址返回数据.md",
+    "node/2-内置模块/（1），http模块/（1.1），创建服务器.md",
+    "node/2-内置模块/（1），http模块/（1.5），cors解决跨域.md",
+    "Markdown/快速掌握Markdown.md",
+    "node/2-内置模块/（1），http模块/（1.7），post请求.md",
+    "node/2-内置模块/（1），http模块/（1.4），jsonp接口.md",
+    "node/6-登录鉴权/（6.1），登陆.md",
+    "node/5-MongoDB/（5.1），介绍.md",
+    "node/3-路由/（1），路由基础.md",
+    "react/next.js/（3），nextJS 13.4路由新写法.md",
+    "react/next.js/（5），nextJS请求接口.md",
+    "react/next.js/（6），nextJS获取传递的参数.md",
+    "react/next.js/（7），nextJS的title.md",
+    "react/next.js/（4），nextJS的链接和导航.md",
+    "obsidian"
+  ]
+}
