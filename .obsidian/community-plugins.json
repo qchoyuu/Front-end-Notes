@@ -1,3 +1,11 @@
 [
-  "obsidian-emoji-toolbar"
+  "obsidian-emoji-toolbar",
+  "code-emitter",
+  "notion-like-tables",
+  "calendar",
+  "obsidian-focus-mode",
+  "obsidian-hover-editor",
+  "obsidian-excalidraw-plugin",
+  "highlightr-plugin",
+  "execute-code"
 ]

@@ -1,0 +1,22 @@
+{
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-flamingo",
+  "anuppuccin-theme-settings@@anp-colorful-frame": true,
+  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": true,
+  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": true,
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-full-rainbow-color-toggle",
+  "anuppuccin-theme-settings@@anp-rainbow-file-toggle": false,
+  "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": false,
+  "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false,
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout",
+  "anuppuccin-theme-settings@@anp-card-shadows": false,
+  "anuppuccin-theme-settings@@anp-card-layout-actions": false,
+  "anuppuccin-theme-settings@@anp-card-layout-filebrowser": false,
+  "anuppuccin-theme-settings@@anp-card-radius": 10,
+  "anuppuccin-theme-settings@@anp-card-layout-padding": 5,
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-pink",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": false,
+  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-depth-tab-toggle",
+  "anuppuccin-theme-settings@@anp-disable-newtab-align": true
+}

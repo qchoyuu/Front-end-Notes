@@ -4,19 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c0ea6725b4fd050d",
+        "id": "ad568bcf4064da96",
         "type": "tabs",
         "children": [
           {
-            "id": "33a9d1edee76a752",
+            "id": "f18f43ccd21e6f29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/3-基础.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "aee77b022e56642d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -39,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,14 +82,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 377
+    "width": 234.5
   },
   "right": {
     "id": "83246035403ae2a5",
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/3-基础.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +115,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -102,10 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/3-基础.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
             }
           },
           {
@@ -116,7 +142,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -125,11 +153,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/3-基础.md"
-              }
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
+            }
+          },
+          {
+            "id": "6c8ea644f96b3cff",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -143,38 +184,51 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "notion-like-tables:Create loom": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "33a9d1edee76a752",
+  "active": "f18f43ccd21e6f29",
   "lastOpenFiles": [
-    "python/2-前置.md",
-    "python/3-基础.md",
-    "python/1-安装.md",
-    "python",
+    "Excalidraw/Drawing 2024-10-21 15.15.27.excalidraw.md",
+    "Markdown/快速掌握Markdown.md",
+    "README.md",
+    "webpack & vite/（8），vite-配置文件介绍.md",
+    "webpack & vite/（3），webpack-配置文件介绍.md",
     "obsidian/设置.md",
+    "01_演示文件/Drawing 2024-10-21 14.34.00.excalidraw.md",
+    "astronomical-symbols.excalidrawlib",
+    "Excalidraw",
+    "python/1-基础/1.3-基础.md",
+    "python/1-基础/1.2-前置.md",
+    "python/1-基础/1.1-安装.md",
+    "node/4-Express/（8），服务端渲染.md",
+    "node/4-Express/（7），客户端渲染.md",
+    "node/4-Express/（9），express框架生成.md",
+    "node/4-Express/（6），静态资源中间件.md",
+    "01_演示文件/未命名.canvas",
+    "2024-10-21.md",
+    "Untitled.loom",
+    "Untitled 1.loom",
+    "01_演示文件/Untitled.loom",
+    "01_演示文件",
+    "user/google.md",
+    "node/1-node基础/（3），node的开发模式.md",
+    "node/1-node基础/（4），npm & yarn & nrm.md",
+    "node/1-node基础/（2），node运行js文件.md",
+    "Pasted image 20241021101927.png",
+    "user",
+    "html&css/html/1-网页开发概念/（1），什么是网站？网页？.md",
+    "html&css/html/1-网页开发概念/（2），什么是HTML.md",
+    "html&css/html/1-网页开发概念/（4），浏览器内核.md",
+    "python/2-数据类型/2.1-整型（int）.md",
+    "python/2-数据类型",
+    "python/1-基础",
+    "python",
     "node/6-登录鉴权/（6.4），将session存储数据库.md",
     "node/6-登录鉴权/（6.3），登出.md",
-    "node/1-node基础/（4），npm & yarn & nrm.md",
-    "node/1-node基础/（1），认识node.md",
-    "node/1-node基础/（2），node运行js文件.md",
-    "node/1-node基础/（5），ES模块化写法.md",
-    "node/1-node基础/（3），node的开发模式.md",
-    "node/2-内置模块/（1），http模块/（1.3），模块化的方式.md",
-    "node/2-内置模块/（1），http模块/（1.2），根据地址返回数据.md",
-    "node/2-内置模块/（1），http模块/（1.1），创建服务器.md",
-    "node/2-内置模块/（1），http模块/（1.5），cors解决跨域.md",
-    "Markdown/快速掌握Markdown.md",
-    "node/2-内置模块/（1），http模块/（1.7），post请求.md",
-    "node/2-内置模块/（1），http模块/（1.4），jsonp接口.md",
-    "node/6-登录鉴权/（6.1），登陆.md",
-    "node/5-MongoDB/（5.1），介绍.md",
-    "node/3-路由/（1），路由基础.md",
-    "react/next.js/（3），nextJS 13.4路由新写法.md",
-    "react/next.js/（5），nextJS请求接口.md",
-    "react/next.js/（6），nextJS获取传递的参数.md",
-    "react/next.js/（7），nextJS的title.md",
-    "react/next.js/（4），nextJS的链接和导航.md",
-    "obsidian"
+    "node/1-node基础/（1），认识node.md"
   ]
 }
