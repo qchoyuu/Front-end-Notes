@@ -18,4 +18,22 @@
       
         
 2. commonJS 与 ES模块化不可以联用
+
+3. 导出方式（单个导出/多个导出）
+var val = 'valll'
+var foo = 'fooo'
+
+// 单个导出
+// module.export = val;
+
+// 多个导出
+// module.exports = {
+//    val,
+//    foo
+// }
+
+// 多个导出方法2
+// exports.foo = foo
+// exports.val = val
+
 ```
