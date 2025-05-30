@@ -42,13 +42,16 @@
   （3）. cnpm地址，中国国家做的镜像
   （4）. taobao地址，阿里做的镜像
   
-2. 安装：npm install nrm —global - mac：sudo npm install nrm —glgbal
+2. 安装：npm i -g nrm / mac：sudo npm install nrm —glgbal
 
-3. 检测是否安装成功：nrm —version
+3. 检测是否安装成功：nrm —version / nrm -V
 
 4. 卸载：npm uninstall nrm —glgbal
 
-5. 使用：nrm test
+5. 使用：
+  5.1：nrm ls （查看下载源）
+  5.2：nrm use npm （切换下载源，或者taobao都行）
+  5.2：nrm test （测试所有源的下载速度）
 
 6. 下载nrm报错解决方式：npm install -g nrm open@8.4.2 --save
 
@@ -59,7 +62,7 @@
 
 >cnpm
 ```
-直接指向淘宝镜像，需要安装
+直接指向淘宝镜像，需要安装，如果npm的下载源就是本来的npm，cnpm就是淘宝源，等于说可以有两个下载工具
 ```
 
 > nvm
